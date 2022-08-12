@@ -27,7 +27,6 @@ permalink: docs/Guide/Maintenance/PartsList
 ### Printbed
 Put content about the printbed here. 
 Things that you can put in here are:
-```markdown
 - Pictures of the bed
 - Show how to clean the bed
 - Show how to apply adhesive/release agent
