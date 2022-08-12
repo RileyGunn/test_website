@@ -30,7 +30,7 @@ twitter_username: PantheonDesign_
 github_username:  jekyll
 
 # Build settings
-theme: just_the_docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
