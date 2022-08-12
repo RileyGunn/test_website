@@ -41,7 +41,7 @@ plugins:
   - jekyll-spaceship
 
 # color scheme
-#color_scheme: dark
+# color_scheme: dark
 
 heading_anchors: true
 
