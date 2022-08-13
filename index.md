@@ -19,12 +19,15 @@ Head over to the website to check out the shop:
 [Pantheon Design](https://www.pantheondesign.com/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
 
 # Introduction
-Welcome to the Documentation for the HS3 3D printer.
+Welcome to the Documentation for the HS3 3D printer. These documents are constantly being updated as new guides, issues, and solutions are found. Please refer to the Changelog for updates as they come in.
+
+
 
 # How to use this documentaion
 Like a boss, that's how
 
-But really, if you have an HS3 or are interested in how to set one up, let's get started [Get started now](docs/Guide){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+But really, if you have an HS3 or are interested in how to set one up, let's get started
+[Get started now](docs/Guide){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 # Support
 If you need more support that is not provided here, please contact us via: "link to support form or similar"
