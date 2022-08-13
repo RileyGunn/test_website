@@ -26,8 +26,8 @@ Throughout this guide, important safety considerations are set off from the main
 
 The decals listed below are placed on the machine to quickly communicate certain hazards. If the decals become damaged or worn, promptly replace these with the additional supplied decals placed in the maintenance manual.
 
-| LABEL | The component with this icon may reach temperatures that can cause burns if touched. Only interact with the labeled component when it is inactive, when using suitable personal protective equipment, or the temperature has been measured manually. |
-| LABEL | A component or location labeled with this icon signifies that a dangerous voltage may exist and to avoid coming into contact with electricity. Only interact with components or areas with this label if the necessary precautions have been taken. |
+| ![](assets/Hot_Surface.jpg) | The component with this icon may reach temperatures that can cause burns if touched. Only interact with the labeled component when it is inactive, when using suitable personal protective equipment, or the temperature has been measured manually. |
+| ![](assets/High_Voltage.jpg)  | A component or location labeled with this icon signifies that a dangerous voltage may exist and to avoid coming into contact with electricity. Only interact with components or areas with this label if the necessary precautions have been taken. |
 | LABEL | This label signifies that a team lift is required.  |
 | LABEL | A component or location labeled with this icon signifies that an entanglement risk exists. Keep hands, clothes, and other objects clear. Only interact with components or areas with this label if the necessary precautions have been taken. |
 | LABEL | A component or location labeled with this icon signifies that a crush risk exists. Keep hands and limbs clear. Only interact with components or areas with this label if the necessary precautions have been taken. |

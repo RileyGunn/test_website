@@ -40,8 +40,9 @@ plugins:
   - jekyll-mermaid
   - jekyll-spaceship
 
-# color scheme
-# color_scheme: dark
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
 
 heading_anchors: true
 
