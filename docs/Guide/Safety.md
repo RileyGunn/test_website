@@ -12,6 +12,12 @@ permalink: docs/Guide/Safety
 This section should be thoroughly read and understood by all operators prior to using the HS3.
 {: .fs-6 .fw-300 }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Safety Verbose
 
 Throughout this guide, important safety considerations are set off from the main text with an associated signal word: “DANGER,” “WARNING,” “CAUTION”. “NOTICE.” The signal word indicates the severity of the condition or situation. Be sure to read these statements and understand the severity of each. Be sure to follow the instructions of these statements. Below is a table describing each signal word.
