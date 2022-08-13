@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Change Log
-nav_order: 4
+nav_order: 51
 permalink: /Change_Log/
 ---
 
