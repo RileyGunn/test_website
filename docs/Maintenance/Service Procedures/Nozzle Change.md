@@ -45,6 +45,7 @@ Find detailed instructions on how to perform a nozzle change on the HS3. Jump to
 
 Notice
 {: .label .label-blue }
+
 A thermal runaway or heater fault error may occur during this step, it is caused by the wrench rapidly cooling the hot end. If this happens, reset the heater using the gcode console and continue. The gcode to reset it is M562 P0
 
 9. Screw in the nozzle until just seated with the 7mm wrench and allow nozzle temperature to stabilize
