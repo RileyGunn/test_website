@@ -24,14 +24,10 @@ green
 {: .label .label-green }
 
 and how about here?
-purple
-{: .label .label-purple }
+purple {: .label .label-purple }
 
-|
 more yellow
 yellow {: .label .label-yellow }
 and the last test is here.
-
-|
 red
 {: .label .label-red }
