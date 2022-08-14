@@ -16,3 +16,13 @@ Would probably just rely on the table of contents to funnel people to the intend
 
 Likely wouldn't have much on this page exactly, just an overview perhaps and then the table of contents as a navigation structure.
 
+blue
+{: .label .label-blue }
+green
+{: .label .label-green }
+purple
+{: .label .label-purple }
+yellow
+{: .label .label-yellow }
+red
+{: .label .label-red }
