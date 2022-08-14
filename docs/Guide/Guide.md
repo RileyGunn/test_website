@@ -19,15 +19,14 @@ Likely wouldn't have much on this page exactly, just an overview perhaps and the
 blue
 {: .label .label-blue }
 
-what if there is text here?
 green
 {: .label .label-green }
 
-and how about here?
-purple {: .label .label-purple }
+purple
+{: .label .label-purple }
 
-more yellow
-yellow {: .label .label-yellow }
-and the last test is here.
+yellow
+{: .label .label-yellow }
+
 red
 {: .label .label-red }

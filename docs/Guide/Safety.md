@@ -23,11 +23,16 @@ This section should be thoroughly read and understood by all operators prior to 
 Throughout this guide, important safety considerations are set off from the main text with an associated signal word: “DANGER,” “WARNING,” “CAUTION”. “NOTICE.” The signal word indicates the severity of the condition or situation. Be sure to read these statements and understand the severity of each. Be sure to follow the instructions of these statements. Below is a table describing each signal word.
 
 | Signal Word | Description |
-| | |
-| Danger {: .label .label-red} | Danger means that there is a condition or situation that will cause severe injury or death if the recommended actions are not followed.|
-| Warning {: .label .label-yellow} | Warning means that there is a condition or situation that will cause moderate injury if the recommended actions are not followed.|
-| Caution {: .label .label-yellow} | Caution means that minor injury or machine damage can occur if the recommended actions are not followed. |
-| Notice {: .label .label-blue}  | Notice means that the text gives additional information or clarification. |
+| Danger | Danger means that there is a condition or situation that will cause severe injury or death if the recommended actions are not followed.|
+| Caution | Caution means that injury or machine damage can occur if the recommended actions are not followed. |
+| Notice | Notice means that the text gives additional information or clarification. |
+
+Danger
+{: .label .label-red }
+Caution
+{: .label .label-yellow }
+Notice
+{: .label .label-blue }
 
 ## Warning Labels
 
