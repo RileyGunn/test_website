@@ -3,7 +3,7 @@ layout: default
 title: Parts List
 parent: Maintenance
 nav_order: 1
-permalink: docs/Guide/Maintenance/PartsList
+permalink: docs/Maintenance/PartsList
 ---
 
 # Parts List
