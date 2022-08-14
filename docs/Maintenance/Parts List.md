@@ -2,7 +2,7 @@
 layout: default
 title: Parts List
 parent: Maintenance
-grand_parent: Guide
+nav_order: 1
 permalink: docs/Guide/Maintenance/PartsList
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Operation
 parent: Guide
-has_children: true
+#has_children: true
 nav_order: 2
 ---
 
@@ -21,17 +21,6 @@ This section describes the best workflow to follow when operating the HS3.
 
 ## Workflow
 
-1.  Preparing the Print File
-2.  Slicing the Part and Generating the G-code File
-3.  Loading the File onto the HS3
-4.  Preparing the Filament
-5.  Preparing the Print Surface
-6.  Cleaning the Nozzle
-7.  Starting the Print File
-8.  Pausing or Cancelling the Print File
-9.  Emergency Stop
-10. Removing the Printed Part
-
 ### 1. Preparing the Print File
 Using your preferred 3D CAD software, generate an STL file of the part to be uploaded into PrusaSlicer. Make sure your units are in mm when using the 3D CAD software otherwise it may be imported into PrusaSlicer at a 1(in)/25.4(mm) scale.
 
@@ -47,7 +36,7 @@ If filament is not already loaded into HS3, you will need to load it prior to pr
 ### 5. Preparing the Print Surface
 Remove the print surface from the machine. If some plastic build-up remains on the bed, it can be removed using a sharp spatula. A razor blade may also be used, but care must be taken not to damage the bed surface.
 
-![](assets/Bed_20Cleaning.jpg)
+![](assets/Bed_Cleaning.jpg)
 
 Soak a lint-free wipe in methanol (AKA Methyl hydrate or methyl alcohol). Wiping in one direction only, wipe the entire surface of the bed, then repeat in the other direction with a different part of the cloth. In some cases a ‘shadow’ of the parts will remain in the PEI coating. This is normal and not a cause for concern. Over time they disappear. Removing plastic buildup with solvents is not recommended as it may damage the PEI coating on the bed. Once fully cleaned, apply adhesive/release agent to the entire surface. Return the print surface onto the PCB bed.
 
