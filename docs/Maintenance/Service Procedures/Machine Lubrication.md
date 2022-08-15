@@ -36,7 +36,7 @@ Grease is supplied in 1ml syringes, approximately 4 of which are required to com
 
 Be mindful of the scale on the syringe. Each tick represents 0.1ml, see the image below:
 
-![](assets/Syringe_Scale_Detail.jpg)
+![](Maintenance/assets/Syringe_Scale_Detail.jpg)
 
 The relubrication quantities for each motion component are as follows:
 
@@ -49,5 +49,5 @@ The relubrication quantities for each motion component are as follows:
 
 Inject lubricant into the linear component’s lubrication ports using a 1ml syringe. Ensure that lubricant does not backflow around the syringe at the port, but rather is pushed into the linear component.
 
-![](assets/Lubrication_Points.jpg)
+![](Maintenance/assets/Lubrication_Points.jpg)
 
