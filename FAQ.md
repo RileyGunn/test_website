@@ -31,7 +31,7 @@ Would rather have a list or table with all the FAQs and quick answers shown plus
 | What is your print volume? | 300mm x 300mm x 300mm | Link to section  |
 | What is the time between service? | Depends on usage, typically regrease annually | [Machine Lubrication]({{ site.baseurl }}{% link docs/Maintenance/Service Procedures/Machine Lubrication.md %}) |
 | What programs can you use to create files for the HS3? | Any program capable of exporting stl | Link to section |
-| What slicer can you use with HS3? | You may use any slicer, but we prefer PrusaSlicer and provide the config files for it.  | [Slicer]({{ site.baseurl }}{% link docs/Guide/Slicer.md %}) |
+| What slicer can you use with HS3? | You may use any slicer, but we prefer PrusaSlicer and provide the config files for it.  | [Slicer]({{ site.baseurl }}{% link docs/Guide/Slicer/Slicer.md %}) |
 | Do you have dual extruders? | No | Link to Section |
 | How much is HS3? | Prices start at $7999 USD. They may change from time to time. | [Pantheon HS3](https://www.pantheondesign.com/product/pantheon-hs3-production-deposit-batch-2) |
 | Is my deposit refundable? | Yes your deposit is refundable until we start making your machine | Link to Section |
