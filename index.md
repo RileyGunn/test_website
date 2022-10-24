@@ -24,7 +24,7 @@ Welcome to the Documentation for the Pantheon HS3 3D printer. These documents ar
 # How to use this Documentaion
 If you have an HS3 or are interested in how to set one up, let's get started:
 
-[Getting Started Guide](docs/Getting_Started_Guide){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Getting Started Guide](docs/Getting Started Guide){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 In the Getting Started Guide you'll find instructions on how to set up the machine, guidlines to follow when using the machine from day-to-day and some safety precausions one should take when working with the machine.
 
