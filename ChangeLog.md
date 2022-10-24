@@ -2,7 +2,8 @@
 layout: default
 title: Change Log
 nav_order: 51
-permalink: /Change_Log/
+has_children: false
+permalink: /Change_Log
 ---
 
 # Change Log

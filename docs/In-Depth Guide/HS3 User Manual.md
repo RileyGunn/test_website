@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HS3 User Manual
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: docs/HS3_User_Manual
 ---
