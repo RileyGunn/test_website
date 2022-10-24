@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slicer
-parent: GettingStartedGuide
+parent: Getting Started Guide
 nav_order: 2
 permalink: docs/GettingStartedGuide/Slicer
 ---
