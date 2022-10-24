@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Guide
+title: GettingStartedGuide
 nav_order: 2
 has_children: true
-permalink: docs/Guide
+permalink: docs/GettingStartedGuide
 ---
 
 # Guide

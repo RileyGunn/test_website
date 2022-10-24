@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Operation
-parent: Guide
-#has_children: true
+title: Machine Operation
+parent: GettingStartedGuide
 nav_order: 2
+permalink: docs/GettingStartedGuide/MachineOperation
 ---
 
 # Machine Operation
