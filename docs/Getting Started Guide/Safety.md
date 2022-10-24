@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Safety
-parent: GettingStartedGuide
+parent: Getting Started Guide
 nav_order: 1
-permalink: docs/GettingStartedGuide/Safety
+permalink: docs/Getting_Started_Guide/Safety
 ---
 
 # Safety

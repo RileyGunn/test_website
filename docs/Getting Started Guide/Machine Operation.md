@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Machine Operation
-parent: GettingStartedGuide
-nav_order: 2
-permalink: docs/GettingStartedGuide/MachineOperation
+parent: Getting Started Guide
+nav_order: 3
+permalink: docs/Getting_Started_Guide/MachineOperation
 ---
 
 # Machine Operation

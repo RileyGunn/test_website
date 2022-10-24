@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Commissioning HS3
-parent: GettingStartedGuide
-nav_order: 1
-permalink: docs/GettingStartedGuide/CommissioningHS3
+parent: Getting Started Guide
+nav_order: 2
+permalink: docs/Getting_Started_Guide/Commissioning_HS3
 ---
 
 # Commissioning HS3

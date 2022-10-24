@@ -1,12 +1,12 @@
 ---
 layout: default
-title: GettingStartedGuide
+title: Getting Started Guide
 nav_order: 2
 has_children: true
-permalink: docs/GettingStartedGuide
+permalink: docs/Getting_Started_Guide
 ---
 
-# Guide
+# Getting Started Guide
 {: .no_toc }
 
 This is where we can put all the information a user would need to run their machine effectively.
