@@ -20,7 +20,6 @@ Head over to our website to check out the shop:
 # Introduction
 Welcome to the Documentation for the Pantheon HS3 3D printer. These documents are constantly being updated as new guides, issues, and solutions are found. Please refer to the Changelog for updates as they come in.
 
-
 # How to use this Documentaion
 If you have an HS3 or are interested in how to set one up, let's get started:
 
