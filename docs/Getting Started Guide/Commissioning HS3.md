@@ -125,7 +125,7 @@ Congratulations, your HS3 is now ready to print 1000’s of parts for you!
 
 For further details on how to use the Pantheon HS3 Additive Manufacturing System to its full potential, please refer to the User Manual.
 
-[HS3 User Manual](docs/In-Depth_Guide){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[HS3 User Manual](docs/HS3_User_Manual){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 
