@@ -40,13 +40,13 @@ The decals listed below are placed on the machine to quickly communicate certain
 
 | ![](assets/Hot_Surface.jpg) | The component with this icon may reach temperatures that can cause burns if touched. Only interact with the labeled component when it is inactive, when using suitable personal protective equipment, or the temperature has been measured manually. |
 | ![](assets/High_Voltage.jpg)  | A component or location labeled with this icon signifies that a dangerous voltage may exist and to avoid coming into contact with electricity. Only interact with components or areas with this label if the necessary precautions have been taken. |
-| LABEL | This label signifies that a team lift is required.  |
-| LABEL | A component or location labeled with this icon signifies that an entanglement risk exists. Keep hands, clothes, and other objects clear. Only interact with components or areas with this label if the necessary precautions have been taken. |
-| LABEL | A component or location labeled with this icon signifies that a crush risk exists. Keep hands and limbs clear. Only interact with components or areas with this label if the necessary precautions have been taken. |
+| ![](assets/Team_Lift.jpg) | This label signifies that a team lift is required.  |
+| ![](assets/Rotating_Shaft.jpg) | A component or location labeled with this icon signifies that an entanglement risk exists. Keep hands, clothes, hair, and other objects clear. Only interact with components or areas with this label if the necessary precautions have been taken. |
+| ![](assets/Crush.jpg) | A component or location labeled with this icon signifies that a crush risk exists. Keep hands and limbs clear. Only interact with components or areas with this label if the necessary precautions have been taken. |
 | LABEL | |
 
 ## General Safety Notes
-Read all safety warnings, instructions, illustrations and specifications provided in this manual and on HS3. Failure to adhere to all instructions may result in personal injury or damage to the machine. Only authorized or trained personnel may operate this machine. Untrained personnel present a hazard to themselves and the machine.
+Read all safety warnings, instructions, illustrations and specifications provided in this manual and on HS3. Failure to adhere to all instructions may result in personal injury or damage to the machine. Only authorized or trained personnel may operate this machine. Untrained personnel present a hazard to themselves and the machine. Understand that the Pantheon HS3 is an industrial manufacturing tool that requires the proper precautions.
 
 ### HS3 Safety Precautions
 - Do not modify any files in the System Directory of the Web Console without specific approval from Pantheon.
@@ -54,7 +54,7 @@ Read all safety warnings, instructions, illustrations and specifications provide
 - If multiple people have simultaneous control of HS3, or multiple HS3 units, ensure a suitable work-flow is in place to minimize the risk of the machine becoming active while an individual is in hazardous proximity to the machine.  
 
 ### Work Area Safety
-- The work area must be adequately illuminated and free from clutter.
+- The work area should be adequately illuminated and free from clutter.
 - Do not place HS3 in a confined space where heater elements of the system may significantly increase the temperature of the space.
 - Do not place HS3 in a position where it may accidentally be exposed to water or other fluids. 
 
@@ -69,5 +69,6 @@ Read all safety warnings, instructions, illustrations and specifications provide
 
 ### Safety Topics Specific to Additive Manufacturing Systems
 - All fused deposition additive machines contain hazards from heat sources and automatically moving components.
+- All fused deposition additive machine contain hazards from emitted VOCs (Volatile Organic Compounds) and UFPs (Ultra-Fine Particles). It is recommended that HS3 is placed in a moderately well ventilated area (at least 4 air exchanges per hour) and to keep the enclosure of HS3 closed as much as reasonably possible. For comparison, Fused Filament Fabrication (FFF) additive machines, including HS3, release VOCs comparable to or less than office equipment such as laser paper printers, or personal computers. 
 
 
